@@ -1,0 +1,12 @@
+{
+  "name": "steffens_node_app",
+  "version": "1.0.0",
+  "description": "Steffens Node.js Hello World",
+  "author": "Steffen Krause <steffkra@microsoft.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+  }
+}
